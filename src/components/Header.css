@@ -1,0 +1,8 @@
+.header {
+  list-style: none;
+  text-decoration: none;
+  width: 100%;
+  height: 80px;
+  display: block;
+  background-color: #101010;
+}
